@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shub-github&label=Profile%20views&color=0e75b6&style=flat" alt="shub-github" /> </p>
 
-- 🔭 I’m currently working on [Top courses](https://react2-top-courses-code.netlify.app)
+- 🔭 I’m currently working on [Shopping Cart](https://react6-shoppingcart.netlify.app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shub-github](https://github.com/Shub-github)
 
